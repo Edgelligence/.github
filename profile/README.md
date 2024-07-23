@@ -1,4 +1,4 @@
-<p align="center"><img style="max-width:100%;" src="logo.png" alt="Edgelligence"/></p>
+<p align="center"><img style="max-width:50%;" src="logo.png" alt="Edgelligence"/></p>
 
 ---
 At the forefront of edge intelligence, our research group relentlessly pursues breakthroughs. By fostering a culture of diverse perspectives, we cultivate an environment that unlocks the power of AI at the network edge, pioneering the future of intelligent, distributed computing. We explore two frontiers:
